@@ -486,6 +486,7 @@ ul li {
     display: none;
     max-width: 600px;
     margin: auto;
+    display: none;
 }
 
 .shiva img {
